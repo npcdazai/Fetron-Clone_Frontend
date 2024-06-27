@@ -1,0 +1,1 @@
+export { default as MasterVehicleView } from "./master-vehicle-view";

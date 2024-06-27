@@ -1,0 +1,12 @@
+/* scrollbar */
+@import 'simplebar-react/dist/simplebar.min.css';
+body {
+    scrollbar-width: none;
+    scrollbar-color: transparent transparent;
+}
+body::-webkit-scrollbar {
+  width: 0.5em;
+}
+body::-webkit-scrollbar-thumb {
+  background-color: transparent;
+}

@@ -1,0 +1,1 @@
+export { default as FleetReportView } from "../view/FleetReport";
